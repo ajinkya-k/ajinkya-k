@@ -7,6 +7,9 @@ Prior to joining UW-Madison, I graduated with a MS in Economics and Computation 
 I got my undergraduate degree in Computer Science and Economics from BITS, Pilani. 
 My CV and contact details can be found on my [website](https://ajinkya-k.github.io/).
 
+**Open Source Code: **
+I have experience writing software [packages](https://github.com/ajinkya-k/flexBCF/tree/bcf_het_u/) and [modules](https://github.com/ajinkya-k/nsyr-matching-testing/) in R/C++. I also contribute to open source projects especially in the Julia and R ecosystems, see a summary of my contributions [here](https://ajinkya-k.github.io/opensource.html).
+
 
 
 
